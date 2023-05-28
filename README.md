@@ -34,20 +34,20 @@ Está preparado para abraçar essa causa? O futuro sustentável começa aqui, no
 
 ## Instruções de uso
 
-Baixe o aplicativo ou acesse o site: O ChallengeFeed estará disponível para download em dispositivos iOS e Android e por meio da web. Caso queiro acessar via mobile: acesse a loja de aplicativos do seu dispositivo, pesquise por "ChallengeFeed" e faça o download gratuito.
+1. Baixe o aplicativo ou acesse o site: O ChallengeFeed estará disponível para download em dispositivos iOS e Android e por meio da web. Caso queiro acessar via mobile: acesse a loja de aplicativos do seu dispositivo, pesquise por "ChallengeFeed" e faça o download gratuito.
 Para usar via web: vá atéo campo de buscar do seu navegador de preferência e digite www.ChallengeFeed.com.br e acesse o site.
 
-Crie uma conta: Você poderá se inscrever usando seu endereço de e-mail ou conectando-se através de suas contas de redes sociais existentes, como Facebook ou Google.
+2. Crie uma conta: Você poderá se inscrever usando seu endereço de e-mail ou conectando-se através de suas contas de redes sociais existentes, como Facebook ou Google.
 
-Personalize seu perfil: Após criar sua conta, personalize seu perfil adicionando uma foto e compartilhando algumas informações sobre você. Isso ajudará outros usuários a conhecerem você e criar conexões significativas na plataforma.
+3. Personalize seu perfil: Após criar sua conta, personalize seu perfil adicionando uma foto e compartilhando algumas informações sobre você. Isso ajudará outros usuários a conhecerem você e criar conexões significativas na plataforma.
 
-Explore os desafios: Navegue pelos desafios disponíveis no ChallengeFeed. Cada desafio estará relacionado à luta contra a fome no mundo e à agricultura sustentável. Leia as descrições dos desafios, seus objetivos e requisitos para participar.
+4. Explore os desafios: Navegue pelos desafios disponíveis no ChallengeFeed. Cada desafio estará relacionado à luta contra a fome no mundo e à agricultura sustentável. Leia as descrições dos desafios, seus objetivos e requisitos para participar.
 
-Participe dos desafios: Escolha um desafio que você se sinta motivado a cumprir e clique em "Participar". Siga as instruções do desafio e conclua-o. Você pode precisar tirar fotos, escrever um comentário ou realizar uma ação específica para finalizar o desafio. Lembre-se de fornecer evidências adequadas para validar sua participação.
+5. Participe dos desafios: Escolha um desafio que você se sinta motivado a cumprir e clique em "Participar". Siga as instruções do desafio e conclua-o. Você pode precisar tirar fotos, escrever um comentário ou realizar uma ação específica para finalizar o desafio. Lembre-se de fornecer evidências adequadas para validar sua participação.
 
-Compartilhe sua experiência: Após concluir um desafio, compartilhe sua experiência com a comunidade do ChallengeFeed. Faça upload das fotos e escreva um comentário sobre como foi a sua jornada. Isso incentivará outros usuários a se envolverem nos desafios e a se inspirarem em suas conquistas.
+6. Compartilhe sua experiência: Após concluir um desafio, compartilhe sua experiência com a comunidade do ChallengeFeed. Faça upload das fotos e escreva um comentário sobre como foi a sua jornada. Isso incentivará outros usuários a se envolverem nos desafios e a se inspirarem em suas conquistas.
 
-Explore os benefícios: Ao consumir em restaurantes e comércios parceiros alinhados com os valores do ChallengeFeed, aproveite os benefícios exclusivos oferecidos. Apresente seu perfil ou código do aplicativo no estabelecimento para obter descontos, cashbacks ou acumular pontos no aplicativo.
+7. Explore os benefícios: Ao consumir em restaurantes e comércios parceiros alinhados com os valores do ChallengeFeed, aproveite os benefícios exclusivos oferecidos. Apresente seu perfil ou código do aplicativo no estabelecimento para obter descontos, cashbacks ou acumular pontos no aplicativo.
 
 
 ## Requisitos
