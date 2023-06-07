@@ -4,7 +4,7 @@
 
 ## Autores
 
-- Nina Rebello francisco - RM: 99509
+- Nina Rebello Francisco - RM: 99509
 
 - Camila dos Santos Cunha - RM: 551785
 
